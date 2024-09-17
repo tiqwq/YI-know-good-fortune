@@ -1,6 +1,6 @@
-/* "page/index",
-            "page/main"
- */
+
+    
+
 
             import { getText } from '@zos/i18n'
             import { Accelerometer, FREQ_MODE_NORMAL } from '@zos/sensor'
